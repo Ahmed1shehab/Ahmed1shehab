@@ -2,9 +2,9 @@
 
 # Hi, I'm Ahmed Shehab 👋
 
-**Software Engineer · Mobile App Developer (Flutter)**
+**Software Engineer · Mobile App Developer**
 
-I build high-performance, beautiful cross-platform mobile apps and robust software solutions with clean architecture, fluid animations, and reliable integrations.
+I build high-performance, beautiful cross-platform and native mobile apps, along with robust software solutions utilizing clean architecture and fluid animations.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmedshehab.tech-0A84FF?style=flat&logo=googlechrome&logoColor=white)](https://ahmedshehab.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Shehab-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed1shehabb/)
@@ -54,21 +54,21 @@ I build high-performance, beautiful cross-platform mobile apps and robust softwa
 ### Mobile Development
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bloc%20%2F%20Cubit-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-0175C2?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" />
 </div>
 
 ### Languages & Software Development
 <div align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
 </div>
 
@@ -76,10 +76,10 @@ I build high-performance, beautiful cross-platform mobile apps and robust softwa
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20%2F%20VPS-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 </div>
 
