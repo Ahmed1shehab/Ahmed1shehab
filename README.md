@@ -39,7 +39,7 @@ I enjoy managing the full product lifecycle: from intuitive interface design and
 <div align="center">
 
 **Mobile & Native**<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio,apple" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio,apple&theme=dark" /><br/><br/>
 
 **Web & Full-Stack**<br/>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind" /><br/><br/>
