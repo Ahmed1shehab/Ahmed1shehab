@@ -59,11 +59,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ahmed1shehab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed1shehab/Ahmed1shehab/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed1shehab/Ahmed1shehab/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Ahmed1shehab/Ahmed1shehab/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed1shehab&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
