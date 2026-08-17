@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <b>Crafting fluid mobile experiences and scalable cross-platform architectures.</b>
+    <b>Crafting fluid mobile experiences, robust native integrations, and modern software architectures.</b>
   </p>
 
   <!-- Visitor Counter Badge -->
@@ -28,40 +28,12 @@
 
 ---
 
-### 🚀 Featured Projects
+### ⚡ What I Do
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📱 Duseat</h3>
-      <p align="center"><i>Real estate discovery & agent messaging platform for Egypt & UAE.</i></p>
-      <ul>
-        <li>Cross-platform real estate portal built with <b>Flutter</b> & <b>Dart</b></li>
-        <li>Interactive map view, advanced filtering, and instant push notifications</li>
-        <li>Full bilingual localization support (Arabic / English)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 Kalmangy</h3>
-      <p align="center"><i>Interactive trivia and mobile word puzzle game.</i></p>
-      <ul>
-        <li>180+ challenges spanning 12 diverse trivia categories</li>
-        <li>Smooth UI animations, dynamic sound effects, and custom game loops</li>
-        <li>Offline-first local caching architecture</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">⚡ Off-Plan Finder</h3>
-      <p align="center"><i>Real-time property crawler and investment analytics engine.</i></p>
-      <ul>
-        <li>Automated backend aggregation pipeline tracking daily off-plan project launches</li>
-        <li>Engineered with <b>Node.js</b>, <b>MongoDB</b>, and background web scraping workers</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 📱 **Mobile Development:** Building cross-platform iOS & Android apps with Flutter, plus native exploration in Swift & Kotlin.
+- 🧱 **Clean Architecture:** Writing modular, testable code with robust state management (Bloc / Cubit / Provider) and offline-first caching.
+- ⚙️ **Backend & APIs:** Designing RESTful services, integrating Firebase, and optimizing database pipelines.
+- 🎥 **Tech Content:** Sharing tutorials, software design concepts, and coding walkthroughs on YouTube.
 
 ---
 
@@ -72,10 +44,10 @@
   <b>Mobile & Native</b><br/>
   <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio,apple" /><br/><br/>
 
-  <b>Languages & Full-Stack</b><br/>
+  <b>Languages & Software Core</b><br/>
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mongodb,firebase,postman" /><br/><br/>
 
-  <b>Workflow & Design</b><br/>
+  <b>Workflow & Environment</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 
 </div>
@@ -87,7 +59,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ahmed1shehab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <!-- Animated 3D/Isometric Contribution Graph -->
+  <!-- Animated Trophy Showcase -->
   <img src="https://github-profile-trophy.vercel.app/?username=Ahmed1shehab&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
 </div>
 
