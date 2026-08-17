@@ -59,8 +59,11 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Ahmed1shehab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <!-- Animated Trophy Showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed1shehab&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed1shehab/Ahmed1shehab/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed1shehab/Ahmed1shehab/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Ahmed1shehab/Ahmed1shehab/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
