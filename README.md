@@ -1,80 +1,144 @@
 <div align="center">
 
-  <!-- Animated Dynamic Typing Header -->
-  <a href="https://ahmedshehab.tech/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ahmed+Shehab+%F0%9F%91%8B;Software+Engineer;Mobile+App+Developer+(Flutter);Content+Creator+at+@shehab-code" alt="Typing SVG" />
-  </a>
+# Ahmed Shehab
 
-  <p align="center">
-    <b>Crafting fluid mobile experiences, robust native integrations, and modern software architectures.</b>
-  </p>
+**Software Engineer · Flutter · Backend · Full-Stack**
 
-  <!-- Visitor Counter Badge -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ahmed1shehab&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" alt="Profile Views" />
-  </p>
+Building production-ready mobile and web products from the interface to the backend systems behind them.
 
-  <!-- Quick Social Links -->
-  <p align="center">
-    <a href="https://ahmedshehab.tech/"><img src="https://img.shields.io/badge/Portfolio-ahmedshehab.tech-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/ahmed1shehabb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.youtube.com/@shehab-code"><img src="https://img.shields.io/badge/YouTube-@shehab--code-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  </p>
-
-  <!-- Animated Wave SVG Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=100&section=header" width="100%"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmedshehab.tech-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://ahmedshehab.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Shehab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed1shehabb/)
+[![YouTube](https://img.shields.io/badge/YouTube-shehab--code-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@shehab-code)
 
 </div>
 
 ---
 
-### ⚡ What I Do
+## About
 
-- 📱 **Mobile Development:** Building cross-platform iOS & Android apps with Flutter, plus native exploration in Swift & Kotlin.
-- 🧱 **Clean Architecture:** Writing modular, testable code with robust state management (Bloc / Cubit / Provider) and offline-first caching.
-- ⚙️ **Backend & APIs:** Designing RESTful services, integrating Firebase, and optimizing database pipelines.
-- 🎥 **Tech Content:** Sharing tutorials, software design concepts, and coding walkthroughs on YouTube.
+I'm a software engineer focused on building complete products across **mobile, web, and backend systems**.
 
----
+My primary stack is **Flutter, Dart, Next.js, Node.js, and MongoDB**, with a strong focus on architecture, API design, performance, and production deployment.
 
-### 🛠️ Tech Stack & Ecosystem
+I enjoy taking products from an idea to a working system — designing the UI, building the application, developing the backend, integrating third-party services, and shipping it.
 
-<div align="center">
+### What I work on
 
-  <b>Mobile & Native</b><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio,apple" /><br/><br/>
-
-  <b>Languages & Software Core</b><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mongodb,firebase,postman" /><br/><br/>
-
-  <b>Workflow & Environment</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
-
-</div>
+- 📱 **Mobile** — Flutter, Dart, iOS & Android
+- 🌐 **Web** — Next.js, React, TypeScript
+- ⚙️ **Backend** — Node.js, Express, REST APIs
+- 🗄️ **Data** — MongoDB, Supabase, Redis
+- ☁️ **Infrastructure** — Linux, Nginx, PM2, VPS deployments
+- 🏗️ **Architecture** — Clean Architecture, MVVM, modular systems
+- 🔌 **Integrations** — Firebase, RevenueCat, payments, notifications & third-party APIs
 
 ---
 
-### 📊 GitHub Activity & Metrics
+## Tech Stack
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahmed1shehab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed1shehab&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,ts,js,swift,kotlin" />
+</p>
+
+### Mobile & Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,redis,firebase" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,figma,postman" />
+</p>
 
 ---
 
-### 🎥 Latest on YouTube
+## Selected Projects
 
-<div align="center">
-  <p>Tutorials, mobile architecture deep dives, and developer walkthroughs on <b>@shehab-code</b>.</p>
-  <a href="https://www.youtube.com/@shehab-code">
-    <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe" />
-  </a>
-</div>
+### Duseat
 
-<br/>
+**Real-estate investment platform connecting verified agents with pre-qualified investors.**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=100&section=footer" width="100%"/>
-</div>
+Flutter · Node.js · Express · MongoDB · Firebase · RevenueCat
+
+Built the mobile application and backend infrastructure, including authentication, offers, chat, notifications, subscriptions, and investment workflows.
+
+---
+
+### UnifiedLink
+
+**A cross-platform remote-control system for connecting phones and computers.**
+
+Flutter · Dart · Windows · macOS · iOS · Android
+
+Exploring low-latency device communication, remote input, screen interaction, and clipboard synchronization across devices.
+
+[View repository →](https://github.com/Ahmed1shehab/UnifiedLInk)
+
+---
+
+### AI Movie Suggestion
+
+**A Flutter application powered by an AI movie recommendation service.**
+
+Flutter · FastAPI · AI · REST API
+
+A full-stack experiment combining a mobile client with an AI-powered backend for personalized movie discovery.
+
+[View repository →](https://github.com/Ahmed1shehab/ai_movie_suggestion_mobile)
+
+---
+
+### Smart Transportation
+
+**A mobile platform for smart transportation workflows.**
+
+Flutter · Dart · REST APIs
+
+A production-oriented mobile application focused on transportation and operational workflows.
+
+[View repository →](https://github.com/Ahmed1shehab/smart-transportation-mob)
+
+---
+
+## Engineering Focus
+
+I'm particularly interested in:
+
+- Designing maintainable application architectures
+- Building scalable REST APIs
+- Creating smooth mobile experiences
+- Backend performance and database optimization
+- Real-time communication
+- AI-powered applications
+- Developer tooling and automation
+- Shipping software to production
+
+---
+
+## Content
+
+I also create technical content covering software development, mobile engineering, architecture, and practical development workflows.
+
+**YouTube:** [@shehab-code](https://www.youtube.com/@shehab-code)
+
+---
+
+## Let's Connect
+
+If you're interested in building something, collaborating on a project, or discussing software engineering:
+
+<p>
+  <a href="https://ahmedshehab.tech">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ahmed1shehabb/">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@shehab-code">YouTube</a>
+</p>
