@@ -38,12 +38,16 @@ I enjoy managing the full product lifecycle: from intuitive interface design and
 
 <div align="center">
 
-### Mobile & Native
+**Mobile & Native**<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple iOS" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+</p> 
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" height="48" />
-</p>
 **Web & Full-Stack**<br/>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind" /><br/><br/>
 
