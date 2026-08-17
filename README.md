@@ -4,11 +4,13 @@
 
 **Software Engineer · Flutter · Backend · Full-Stack**
 
-Building production-ready mobile and web products from the interface to the backend systems behind them.
+Building mobile, web, and backend products from the interface in someone's hands to the systems running behind it.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmedshehab.tech-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://ahmedshehab.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Shehab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed1shehabb/)
-[![YouTube](https://img.shields.io/badge/YouTube-shehab--code-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@shehab-code)
+<p>
+  <a href="https://ahmedshehab.tech">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ahmed1shehabb/">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@shehab-code">YouTube</a>
+</p>
 
 </div>
 
@@ -16,36 +18,38 @@ Building production-ready mobile and web products from the interface to the back
 
 ## About
 
-I'm a software engineer focused on building complete products across **mobile, web, and backend systems**.
+I'm a software engineer focused on building **production-ready mobile, web, and backend systems**.
 
-My primary stack is **Flutter, Dart, Next.js, Node.js, and MongoDB**, with a strong focus on architecture, API design, performance, and production deployment.
+My main stack is **Flutter, Dart, Next.js, Node.js, and MongoDB**, with a strong focus on clean architecture, API design, performance, and shipping products to production.
 
-I enjoy taking products from an idea to a working system — designing the UI, building the application, developing the backend, integrating third-party services, and shipping it.
+I enjoy working across the entire product lifecycle — from designing interfaces and building applications to developing APIs, integrating third-party services, and deploying the infrastructure behind them.
 
-### What I work on
+---
 
-- 📱 **Mobile** — Flutter, Dart, iOS & Android
-- 🌐 **Web** — Next.js, React, TypeScript
-- ⚙️ **Backend** — Node.js, Express, REST APIs
-- 🗄️ **Data** — MongoDB, Supabase, Redis
-- ☁️ **Infrastructure** — Linux, Nginx, PM2, VPS deployments
-- 🏗️ **Architecture** — Clean Architecture, MVVM, modular systems
-- 🔌 **Integrations** — Firebase, RevenueCat, payments, notifications & third-party APIs
+## What I Do
+
+* 📱 **Mobile Development** — Flutter, Dart, iOS & Android
+* 🌐 **Web Development** — Next.js, React, TypeScript
+* ⚙️ **Backend Engineering** — Node.js, Express, REST APIs
+* 🗄️ **Databases & Services** — MongoDB, Supabase, Firebase, Redis
+* 🏗️ **Architecture** — Clean Architecture, MVVM, modular systems
+* 🔌 **Integrations** — Payments, subscriptions, notifications, authentication & third-party APIs
+* 🚀 **Deployment** — Linux, Nginx, PM2, VPS & production deployments
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Mobile & Native
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,ts,js,swift,kotlin" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,androidstudio,apple" />
 </p>
 
-### Mobile & Frontend
+### Web & Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind" />
 </p>
 
 ### Backend & Data
@@ -62,51 +66,80 @@ I enjoy taking products from an idea to a working system — designing the UI, b
 
 ---
 
-## Selected Projects
+## Featured Project
 
 ### Duseat
 
-**Real-estate investment platform connecting verified agents with pre-qualified investors.**
+**Real Estate Investment Network**
 
-Flutter · Node.js · Express · MongoDB · Firebase · RevenueCat
+Duseat is a UAE real estate platform connecting verified real estate agents with pre-qualified investors and investment opportunities.
 
-Built the mobile application and backend infrastructure, including authentication, offers, chat, notifications, subscriptions, and investment workflows.
+The platform supports property discovery, investor requests, agent offers, real-time communication, subscriptions, notifications, and investment workflows.
+
+**Stack**
+
+`Flutter` · `Dart` · `Node.js` · `Express` · `MongoDB` · `Firebase` · `RevenueCat`
+
+**Key Features**
+
+* Investor and agent profiles
+* Property discovery and investment requests
+* Agent offer submission and comparison
+* Real-time investor ↔ agent chat
+* Distress property deals
+* Off-plan and ready property workflows
+* Push notifications
+* Subscription and credit-based offer system
+* Ratings and review workflows
+* Authentication and account management
+* Production REST API and cloud infrastructure
+
+**Available on**
+
+<p>
+  <a href="https://apps.apple.com/ae/app/duseat-connect-invest/id6776383565">
+    <img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.duseat.app">
+    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a>
+  <a href="https://appgallery.huawei.com/app/C117394727">
+    <img src="https://img.shields.io/badge/AppGallery-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Available on Huawei AppGallery" />
+  </a>
+  <a href="https://global.app.mi.com/details?lo=ID&la=en&id=com.duseat.mobile">
+    <img src="https://img.shields.io/badge/Xiaomi%20GetApps-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" alt="Available on Xiaomi GetApps" />
+  </a>
+</p>
+
+**My Work**
+
+Worked across the product stack, including Flutter application development, architecture, UI implementation, backend APIs, authentication, real-time features, notifications, subscriptions, and production deployment.
 
 ---
 
-### UnifiedLink
-
-**A cross-platform remote-control system for connecting phones and computers.**
-
-Flutter · Dart · Windows · macOS · iOS · Android
-
-Exploring low-latency device communication, remote input, screen interaction, and clipboard synchronization across devices.
-
-[View repository →](https://github.com/Ahmed1shehab/UnifiedLInk)
-
----
+## Other Projects
 
 ### AI Movie Suggestion
 
-**A Flutter application powered by an AI movie recommendation service.**
+AI-powered movie recommendation application combining a Flutter mobile client with a FastAPI backend.
 
-Flutter · FastAPI · AI · REST API
-
-A full-stack experiment combining a mobile client with an AI-powered backend for personalized movie discovery.
-
-[View repository →](https://github.com/Ahmed1shehab/ai_movie_suggestion_mobile)
+`Flutter` · `Dart` · `FastAPI` · `AI` · `REST API`
 
 ---
 
 ### Smart Transportation
 
-**A mobile platform for smart transportation workflows.**
+Mobile application for smart transportation workflows and operational processes.
 
-Flutter · Dart · REST APIs
+`Flutter` · `Dart` · `REST APIs`
 
-A production-oriented mobile application focused on transportation and operational workflows.
+---
 
-[View repository →](https://github.com/Ahmed1shehab/smart-transportation-mob)
+### Kalmangy
+
+An Arabic trivia and word-based game focused on Egyptian culture.
+
+`Flutter` · `Dart` · `Supabase`
 
 ---
 
@@ -114,14 +147,14 @@ A production-oriented mobile application focused on transportation and operation
 
 I'm particularly interested in:
 
-- Designing maintainable application architectures
-- Building scalable REST APIs
-- Creating smooth mobile experiences
-- Backend performance and database optimization
-- Real-time communication
-- AI-powered applications
-- Developer tooling and automation
-- Shipping software to production
+* Scalable application architecture
+* Mobile performance and user experience
+* Backend systems and API design
+* Real-time communication
+* Database optimization
+* AI-powered applications
+* Developer tooling and automation
+* Building and shipping products to production
 
 ---
 
@@ -129,16 +162,18 @@ I'm particularly interested in:
 
 I also create technical content covering software development, mobile engineering, architecture, and practical development workflows.
 
-**YouTube:** [@shehab-code](https://www.youtube.com/@shehab-code)
+<p>
+  <a href="https://www.youtube.com/@shehab-code">
+    <img src="https://img.shields.io/badge/YouTube-@shehab--code-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
 ---
 
-## Let's Connect
+<div align="center">
 
-If you're interested in building something, collaborating on a project, or discussing software engineering:
+### Let's build something.
 
-<p>
-  <a href="https://ahmedshehab.tech">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/ahmed1shehabb/">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@shehab-code">YouTube</a>
-</p>
+<a href="https://ahmedshehab.tech">ahmedshehab.tech</a>
+
+</div>
