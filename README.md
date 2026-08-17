@@ -6,7 +6,11 @@
 
 *Building high-performance mobile, web, and backend systems from the interface to the infrastructure.*
 
-[**Portfolio**](https://ahmedshehab.tech) · [**LinkedIn**](https://www.linkedin.com/in/ahmed1shehabb/) · [**YouTube**](https://www.youtube.com/@shehab-code)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmedshehab.tech-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedshehab.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed1shehabb/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shehab-code)
 
 </div>
 
@@ -64,8 +68,18 @@ Duseat is a comprehensive UAE real estate platform connecting verified agents wi
 
 **Available on:**
 <p>
-  <a href="https://apps.apple.com/ae/app/duseat-connect-invest/id6776383565"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.duseat.app"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+  <a href="https://apps.apple.com/ae/app/duseat-connect-invest/id6776383565">
+    <img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.duseat.app">
+    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" />
+  </a>
+  <a href="https://appgallery.huawei.com/app/C117394727">
+    <img src="https://img.shields.io/badge/Huawei%20AppGallery-C7000B?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei AppGallery" />
+  </a>
+  <a href="https://global.app.mi.com/details?lo=ID&la=en&id=com.duseat.mobile">
+    <img src="https://img.shields.io/badge/Xiaomi%20GetApps-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" alt="Xiaomi GetApps" />
+  </a>
 </p>
 
 ---
@@ -81,13 +95,17 @@ Duseat is a comprehensive UAE real estate platform connecting verified agents wi
 ### 🎥 Content
 I share technical insights covering software architecture, mobile engineering, and development workflows on YouTube.
 
-[**Watch on YouTube**](https://www.youtube.com/@shehab-code)
+<div align="left">
+  <a href="https://www.youtube.com/@shehab-code">
+    <img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
 
-*Let's build something.*
-[**ahmedshehab.tech**](https://ahmedshehab.tech)
+*Let's build something.*<br/><br/>
+[![Website](https://img.shields.io/badge/Visit-ahmedshehab.tech-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedshehab.tech)
 
 </div>
