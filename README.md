@@ -88,9 +88,9 @@ I build high-performance, beautiful cross-platform and native mobile apps, along
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed1shehab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed1shehab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://profile-counter.glitch.me/Ahmed1shehab/count.svg" alt="Profile Views" />
+  <br/><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ahmed1shehab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
